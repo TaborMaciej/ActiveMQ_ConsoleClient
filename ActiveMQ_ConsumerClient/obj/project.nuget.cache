@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDrZNADDA9NSD+d9csQlzHVpBFDb4v4H1zCXU6bOuwsXvw2ksBWBmUdHQVF/Rye7rANV8P5Q+x5rkodgWXtbdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asasy\\OneDrive\\Desktop\\Dokumenciki\\Tauron\\ActiveMQ_ConsumerClient\\ActiveMQ_ConsumerClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asasy\\.nuget\\packages\\apache.nms\\2.0.0\\apache.nms.2.0.0.nupkg.sha512",
+    "C:\\Users\\asasy\\.nuget\\packages\\apache.nms.activemq\\2.0.0\\apache.nms.activemq.2.0.0.nupkg.sha512",
+    "C:\\Users\\asasy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\asasy\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\asasy\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\asasy\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
